@@ -1,4 +1,4 @@
-## Hi there, I'm Danilo - aka <span style="color=#FFD95B;">DangoCan</span> [<img style="margin-left: 10px" alt="Dangocan | instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram] [<img alt="Dangocan | LinkedIn" style="margin-left: 10px" width="24px" src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128329.png?token=exp=1635068095~hmac=26fce21be97ed8f905aaa38577b7371a" />][linkedin]
+## Hi there, I'm Danilo - aka <span style="color=blue;">DangoCan</span> [<img style="margin-left: 10px" alt="Dangocan | instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram] [<img alt="Dangocan | LinkedIn" style="margin-left: 10px" width="24px" src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128329.png?token=exp=1635068095~hmac=26fce21be97ed8f905aaa38577b7371a" />][linkedin]
 
 ### Under Development Software Engineer:
 
