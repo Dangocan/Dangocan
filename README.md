@@ -2,7 +2,7 @@
 
 ### Under Development Software Engineer:
 
-- <img align="left" alt="Software" width="15px" src="https://cdn-icons.flaticon.com/png/512/4368/premium/4368421.png?token=exp=1635067275~hmac=3a61334a286257991190e9d87916327b" /> Software engineering - Universidade Tecnológica Federal do Paraná - UTFPR [course]!
+- <img alt="Software" width="20px" src="https://cdn-icons.flaticon.com/png/512/4368/premium/4368421.png?token=exp=1635067275~hmac=3a61334a286257991190e9d87916327b" />Software engineering - Universidade Tecnológica Federal do Paraná - UTFPR.
 - Volunteer Projetcs Director at UNECT jr.
 - FullStack Developer.
 
