@@ -1,4 +1,4 @@
-## Hi there, I'm Danilo - aka DangoCan [<img style="margin-left: 20px;" alt="Dangocan | instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram] [<img alt="Dangocan | LinkedIn" style="margin-left: 20px;" width="24px" src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128329.png?token=exp=1635068095~hmac=26fce21be97ed8f905aaa38577b7371a" />][linkedin]
+## Hi there, I'm Danilo - aka DangoCan
 
 ### Under Development Software Engineer:
 
@@ -6,9 +6,14 @@
 - [<img alt="Software" width="20px" src="https://unect.com.br/assets/img/logomarca.svg" />][unect] Volunteer Projetcs Director at UNECT jr.
 - <img alt="Software" width="20px" src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" /> FullStack Developer.
 
+### Social:
+
+[<img alt="Dangocan | instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
+[<img alt="Dangocan | LinkedIn" width="24px" src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128329.png?token=exp=1635068095~hmac=26fce21be97ed8f905aaa38577b7371a" />][linkedin]
+
 ### Github Alts:
 
-[<img align="left" alt="Dangocan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][githubalt1]
+- [DaniloGempe](https://github.com/DaniloGempe)
 
 <br />
 
@@ -36,5 +41,4 @@
 
 [instagram]: https://www.instagram.com/danilo_gc/
 [linkedin]: https://www.linkedin.com/in/danilo-gomes-candido/
-[githubalt1]: https://github.com/DaniloGempe
 [unect]: https://unect.com.br/
