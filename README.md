@@ -2,9 +2,9 @@
 
 ### Under Development Software Engineer:
 
-- <img alt="Software" width="20px" src="https://cdn-icons.flaticon.com/png/512/4368/premium/4368421.png?token=exp=1635067275~hmac=3a61334a286257991190e9d87916327b" />Software engineering - Universidade Tecnológica Federal do Paraná - UTFPR.
-- Volunteer Projetcs Director at UNECT jr.
-- FullStack Developer.
+- <img alt="Software" width="20px" src="https://cdn-icons.flaticon.com/png/512/4368/premium/4368421.png?token=exp=1635067275~hmac=3a61334a286257991190e9d87916327b" /> Software engineering - Universidade Tecnológica Federal do Paraná - UTFPR.
+- [<img alt="Software" width="20px" src="https://unect.com.br/assets/img/logomarca.svg" />][unect] Volunteer Projetcs Director at UNECT jr.
+- <img alt="Software" width="20px" src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" /> FullStack Developer.
 
 ### Github Alts:
 
@@ -37,3 +37,4 @@
 [instagram]: https://www.instagram.com/danilo_gc/
 [linkedin]: https://www.linkedin.com/in/danilo-gomes-candido/
 [githubalt1]: https://github.com/DaniloGempe
+[unect]: https://unect.com.br/
