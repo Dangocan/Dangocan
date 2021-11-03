@@ -35,7 +35,7 @@
 
 ### GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dangocan&show_icons=true&theme=great-gatsby&card_width=500&card_height=200)](https://github.com/Dangocan/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dangocan&layout=compact&theme=great-gatsby&card_width=500&card_height=200)](https://github.com/Dangocan/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dangocan&show_icons=true&theme=great-gatsby&card_width=400&card_height=400)](https://github.com/Dangocan/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dangocan&layout=compact&theme=great-gatsby&card_width=400&card_height=400)](https://github.com/Dangocan/github-readme-stats)
 
 
 [instagram]: https://www.instagram.com/danilo_gc/
