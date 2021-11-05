@@ -38,7 +38,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dangocan&show_icons=true&theme=great-gatsby)](https://github.com/Dangocan/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dangocan&layout=compact&theme=great-gatsby&card_width=446)](https://github.com/Dangocan/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dangocan)](https://github.com/Dangocan/github-readme-stats)
 
 [instagram]: https://www.instagram.com/danilo_gc/
 [linkedin]: https://www.linkedin.com/in/danilo-gomes-candido/
