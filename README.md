@@ -38,7 +38,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dangocan&show_icons=true&theme=great-gatsby)](https://github.com/Dangocan/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dangocan&layout=compact&theme=great-gatsby&card_width=446)](https://github.com/Dangocan/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dangocan&card_width=446)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dangocan&card_width=446&theme=great-gatsby&range=last_year)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
