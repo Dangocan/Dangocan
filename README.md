@@ -3,7 +3,6 @@
 ### Under Development Software Engineer:
 
 - 🎓 Software engineering - Universidade Tecnológica Federal do Paraná - UTFPR.
-- 📋 Volunteer Projetcs Director at [UNECT jr][unect].
 - 💻 FullStack Developer.
 
 ### Social:
