@@ -28,10 +28,10 @@
 <br />
 
 ### GitHub Stats
-<a href="https://github.com/Dangocan/github-readme-stats"><img href="https://github-readme-stats.vercel.app/api?username=Dangocan&show_icons=true&theme=great-gatsby">Anurag's GitHub stats</img></a>()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dangocan&layout=compact&theme=great-gatsby&card_width=446)](https://github.com/Dangocan/github-readme-stats)
-<br />
-
+<div align="start" style="display: flex;flex-wrap: nowrap;">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Dangocan&show_icons=true&theme=great-gatsby&hide=issues,contribs" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangocan&layout=compact&theme=great-gatsby" />
+</div>
 
 
 [instagram]: https://www.instagram.com/danilo_gc/
