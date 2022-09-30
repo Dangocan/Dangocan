@@ -28,9 +28,11 @@
 <br />
 
 ### GitHub Stats
-
-|-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dangocan&show_icons=true&theme=great-gatsby)](https://github.com/Dangocan/github-readme-stats)-|-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dangocan&layout=compact&theme=great-gatsby&card_width=446)](https://github.com/Dangocan/github-readme-stats)
-<br />-| 
+<div align="center">
+<a href="https://github.com/Dangocan/github-readme-stats"><a href="https://github-readme-stats.vercel.app/api?username=Dangocan&show_icons=true&theme=great-gatsby">Anurag's GitHub stats</a></a>()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dangocan&layout=compact&theme=great-gatsby&card_width=446)](https://github.com/Dangocan/github-readme-stats)
+<br />
+</div>
 
 
 
