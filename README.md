@@ -1,4 +1,4 @@
-## Hi there, I'm Danilo - aka DangoCan
+## Hi there, I'm Danilo - DangoCan
 
 ### Under Development Software Engineer:
 
