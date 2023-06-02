@@ -2,7 +2,7 @@
 
 ### Under Development Software Engineer:
 
-- 🎓 Software engineering - Universidade Tecnológica Federal do Paraná - UTFPR.
+- 🎓 Curso Superior De Tecnologia Em Análise E Desenvolvimento De Sistemas - Universidade Tecnológica Federal do Paraná - UTFPR.
 - 💻 FullStack Developer.
 
 ### Social:
