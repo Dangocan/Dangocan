@@ -1,9 +1,6 @@
 ## Hi there, I'm Danilo
 
-### Under Development Software Engineer:
-
-- 🎓 Curso Superior De Tecnologia Em Análise E Desenvolvimento De Sistemas - Universidade Tecnológica Federal do Paraná - UTFPR.
-- 💻 FullStack Developer.
+💻 FullStack Developer.
 
 ### Social:
 
