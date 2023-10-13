@@ -7,7 +7,6 @@
 [instagram][instagram]  |  [Linkedin][linkedin]
 
 <br />
-<br />
 
 ### GitHub Stats
 <div align="start" style="display: flex;flex-wrap: nowrap;">
