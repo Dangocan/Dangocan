@@ -14,6 +14,6 @@
 </div>
 
 
-[instagram]: https://www.instagram.com/danilo_gc/
+[instagram]: https://www.instagram.com/danilogcandido/
 [linkedin]: https://www.linkedin.com/in/danilo-gomes-candido/
 [unect]: https://unect.com.br/
